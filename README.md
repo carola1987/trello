@@ -29,5 +29,9 @@
 2. **Organizar reunión semanal:** Planificación de agenda y coordinación de participantes.
 3. **Actualizar reporte mensual:** Creación de gráficos y envío de reportes.
 
+## Tablero en Trello
+
+Puedes ver el tablero en acción [aquí](https://trello.com/invite/b/6789b4b98a198291b383fe47/ATTIb06dc065e8fdfea6eb6a5e58c4fd7d0eD692AE1D/gestion-de-tareas)
+
 ## Conclusión
 Este tablero es una muestra de cómo utilizar herramientas digitales para la gestión efectiva de tareas. Es ideal para roles de asistente virtual o gestión de proyectos.
